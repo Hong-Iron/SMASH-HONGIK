@@ -20,5 +20,50 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "인문사회관": {
+      "style": "concrete",
+      "wall": "#a8a89c",
+      "glass": "#2e3d46",
+      "frame": "#7a7c76"
+    },
+    "홍문관": {
+      "style": "stone",
+      "wall": "#d1ccc6",
+      "glass": "#3e4d4a",
+      "frame": "#8a6a6c"
+    },
+    "아트앤디자인밸리": {
+      "style": "concrete",
+      "wall": "#9b978c",
+      "glass": "#2e3236",
+      "frame": "#b8705e"
+    },
+    "체육관": {
+      "style": "ribbon",
+      "wall": "#c8c2b6",
+      "glass": "#2a2826",
+      "frame": "#9a968e"
+    },
+    "제1공학관": {
+      "style": "stone",
+      "wall": "#e2e0d8",
+      "glass": "#22282c",
+      "frame": "#c4c0b6"
+    },
+    "제2기숙사": {
+      "style": "dorm",
+      "wall": "#cdcec7",
+      "glass": "#2b3949",
+      "frame": "#b8bab4"
+    },
+    "미술학관": {
+      "style": "stone",
+      "wall": "#e6e4dc",
+      "glass": "#7a9a9a",
+      "frame": "#7a1e1e"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
